@@ -1,0 +1,1 @@
+Did not save the numpy as execution terminated halfway at 50000 instead of 100000
